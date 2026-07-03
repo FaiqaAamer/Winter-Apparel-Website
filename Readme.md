@@ -23,3 +23,14 @@ It demonstrates how to structure a multi‑page site with modular HTML and CSS f
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/FaiqaAamer/Winter-Apparel-Website.git
+
+--- 
+
+## Author
+**Faiqa Aamer** 
+
+---
+
+## Connect with me
+- 🌐 GitHub: https://github.com/FaiqaAamer  
+- 💼 LinkedIn: https://www.linkedin.com/in/faiqa-aamer-a84a083ab/
