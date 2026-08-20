@@ -17,6 +17,12 @@ It demonstrates how to structure a multi‑page site with modular HTML and CSS f
 
 ---
 
+## Tech Stack
+- Html
+- Css
+
+---
+
 ## How Users Can Get Started
 1. Clone or download this repository:
    ```bash
