@@ -12,9 +12,7 @@ It demonstrates how to structure a multi‑page site with modular HTML and CSS f
 ---
 
 ## Why the Project is Useful
-- Serves as a portfolio piece to demonstrate front‑end design skills.  
 - Highlights responsive design principles and clean CSS styling.  
-- Useful for beginners learning how to manage multiple HTML/CSS files in one project.  
 - Provides a foundation for expanding into an e‑commerce site.
 
 ---
@@ -32,5 +30,6 @@ It demonstrates how to structure a multi‑page site with modular HTML and CSS f
 ---
 
 ## Connect with me
-- 🌐 GitHub: https://github.com/FaiqaAamer  
-- 💼 LinkedIn: https://www.linkedin.com/in/faiqa-aamer-a84a083ab/
+- GitHub: https://github.com/FaiqaAamer  
+- LinkedIn: https://www.linkedin.com/in/faiqa-aamer-a84a083ab/
+- Gmail: techwithfaiqa04@gmail.com
